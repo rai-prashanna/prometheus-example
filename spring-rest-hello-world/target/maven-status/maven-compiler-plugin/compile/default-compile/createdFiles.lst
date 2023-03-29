@@ -1,0 +1,13 @@
+com/mkyong/PrometheusMetrics.class
+com/mkyong/PrometheusMetrics$LocalByteArray.class
+com/mkyong/error/CustomGlobalExceptionHandler.class
+com/mkyong/StartBookApplication.class
+com/mkyong/BookRepository.class
+com/mkyong/error/BookNotFoundException.class
+com/mkyong/MyCounter.class
+com/mkyong/MySummary.class
+com/mkyong/BookController.class
+com/mkyong/Book.class
+com/mkyong/PrometheusMetrics$HTTPMetricHandler.class
+com/mkyong/error/BookUnSupportedFieldPatchException.class
+com/mkyong/PrometheusMetrics$1.class

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="athena-snapshots" />
+      <option name="name" value="proj-athena-dev" />
+      <option name="url" value="https://arm.sero.gic.ericsson.se/artifactory/proj-athena-dev" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="armsero_repo1" />
+      <option name="name" value="armsero_repo1" />
+      <option name="url" value="https://arm.sero.gic.ericsson.se/artifactory/repo1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="proj-athena-hw-local" />
+      <option name="name" value="proj-athena-hw-local" />
+      <option name="url" value="https://arm.sero.gic.ericsson.se/artifactory/proj-athena-hw-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="athena-releases" />
+      <option name="name" value="proj-athena-release" />
+      <option name="url" value="https://arm.sero.gic.ericsson.se/artifactory/proj-athena-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://arm.sero.gic.ericsson.se/artifactory/proj-athena-release" />
+    </remote-repository>
+  </component>
+</project>
